@@ -16,7 +16,7 @@ Its a motor driver with direction and speed control, used to control brushless m
 ![image](https://user-images.githubusercontent.com/5675794/128578903-406b8429-fd5d-497a-b31c-6c52757f4bfc.png)
 
 ### #How to control the driver
-**Connect EL (motor enable) to 5v, Z/F to 5v (foward direction) or 0V (Backward direction). Use can Connect potentiometer for speed control (pins: 5v, VR, GND)**
+**Connect EL (motor enable) to 5v, Z/F to 5v (foward direction) or 0V (Backward direction). you can Connect potentiometer for speed control (pins: 5v, VR, GND)**
 
 
 ## Schematic and Arduino code
